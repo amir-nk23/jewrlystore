@@ -1,0 +1,13 @@
+{
+    "Test": true,
+    "Dashboard": true,
+    "Installment": true,
+    "Setting": true,
+    "Payment": true,
+    "Notebook": true,
+    "User": true,
+    "Admin": true,
+    "Product": true,
+    "Cash": true,
+    "Report": true
+}

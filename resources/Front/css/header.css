@@ -1,0 +1,12 @@
+.header{
+    background-color: var(--bg-main);
+    top: 0;
+    right: 0;
+}
+.w-header{
+    width: 76%;
+}
+.btn-panel{
+    background-color: var(--theme-green);
+    padding: 8px 16px;
+}

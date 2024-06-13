@@ -1,0 +1,11 @@
+{
+    "name": "Notebook",
+    "alias": "notebook",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Notebook\\Providers\\NotebookServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,102 @@
+@font-face {
+  font-family: YekanBakh900;
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/YekanBakh/yekan-bakh-fat.woff") format("woff"),
+    url("../fonts/YekanBakh/yekan-bakh-fat.ttf") format("ttf");
+}
+@font-face {
+  font-family: YekanBakh800;
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts/YekanBakh/yekan-bakh-heavy.woff") format("woff"),
+    url("../fonts/YekanBakh/yekan-bakh-heavy.ttf") format("ttf");
+}
+@font-face {
+  font-family: YekanBakh700;
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/YekanBakh/yekan-bakh-bold.woff") format("woff"),
+    url("../fonts/YekanBakh/yekan-bakh-bold.ttf") format("ttf");
+}
+@font-face {
+  font-family: YekanBakh600;
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/YekanBakh/yekan-bakh-medium.woff") format("woff"),
+    url("../fonts/YekanBakh/yekan-bakh-medium.ttf") format("ttf");
+}
+@font-face {
+  font-family: YekanBakh500;
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/YekanBakh/yekan-bakh-regular.woff") format("woff"),
+    url("../fonts/YekanBakh/yekan-bakh-regular.ttf") format("ttf");
+}
+@font-face {
+  font-family: YekanBakh400;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/YekanBakh/yekan-bakh-light.woff") format("woff"),
+    url("../fonts/YekanBakh/yekan-bakh-light.ttf") format("ttf");
+}
+@font-face {
+  font-family: YekanBakh300;
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/YekanBakh/yekan-bakh-light.woff") format("woff"),
+    url("../fonts/YekanBakh/yekan-bakh-light.ttf") format("ttf");
+}
+@font-face {
+  font-family: YekanBakh200;
+  font-style: normal;
+  font-weight: 200;
+  src: url("../fonts/YekanBakh/yekan-bakh-hairline.ttf") format("ttf");
+}
+@font-face {
+  font-family: IranSansNum;
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/IRANSans/IRANSansXFaNum-Regular.woff") format("woff"),
+    url("../fonts/IRANSans/IRANSansXFaNum-Regular.woff2") format("woff2");
+}
+
+.font-300,
+.font-hairline {
+  font-family: YekanBakh300;
+  font-weight: 300;
+}
+.font-400,
+.font-light {
+  font-family: YekanBakh400;
+  font-weight: 400;
+}
+.font-500,
+.font-regular {
+  font-family: YekanBakh500;
+  font-weight: 500;
+}
+.font-600,
+.font-medium {
+  font-family: YekanBakh600;
+  font-weight: 600;
+}
+.font-700,
+.font-bold {
+  font-family: YekanBakh700;
+  font-weight: 700;
+}
+.font-800,
+.font-heavy {
+  font-family: YekanBakh800;
+  font-weight: 800;
+}
+.font-900,
+.font-fat {
+  font-family: YekanBakh900;
+  font-weight: 900;
+}
+.font-500-fa-num {
+  font-family: IranSansNum;
+  font-weight: 500;
+}

@@ -1,0 +1,24 @@
+
+.w-50{
+    width: 50%;
+}
+
+.image-box{
+    height: 450px;
+}
+.cources{
+    display: grid;
+    grid-template-columns: repeat(5 , 1fr);
+}
+.cource{
+    border: 1px solid #000;
+}
+.title-cource{
+    border-top: 1px solid #000;
+    background-color: var(--bg-main);
+
+}
+.weblog{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+}

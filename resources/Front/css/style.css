@@ -1,0 +1,19 @@
+@font-face {
+  font-family: MyFont;
+  src: url("../fonts/Shabnam-Bold.ttf");
+}
+*, html, body {
+  font-family: MyFont;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bg-color-main {
+  background-color: #DADADA;
+}
+.text-bg-color {
+  background-color: #BABABA;
+}
+.footer-bg-color {
+  background-color: #DBDBDB;
+}
